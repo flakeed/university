@@ -7,7 +7,7 @@ This repository contains links to all my laboratory work assignments. It serves 
 ## Content
 
 ## 🌍 Coordinate System Transformations
-**Status**: *In Progress*  
+**Status**: *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/coordinate-system-transformations)
 
 ---
