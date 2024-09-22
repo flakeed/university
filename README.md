@@ -6,17 +6,22 @@ This repository contains links to all my laboratory work assignments. It serves 
 
 ## Content
 
-1. Реалізація перетворень між системами координат
-   - Status: [In Progress]
-   - Repository: [https://github.com/flakeed/coordinate-system-transformations]
+## 🌍 Coordinate System Transformations
+**Status**: *In Progress*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/coordinate-system-transformations)
 
-2. Розробка додатку для візуалізації вимірювань радару
-   - Status: [In Progress]
-   - Repository: [https://github.com/flakeed/radar-target-display]
+---
 
-3. Розробка додатку для візуалізації вимірювань GPS
-   - Status: [In Progress]
-   - Repository: [https://github.com/flakeed/gps-visualization]
+## 🎯 Radar Measurement Visualization
+**Status**: *In Progress*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/radar-target-display)
+
+---
+
+## 📡 GPS Measurement Visualization
+**Status**: *In Progress*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/gps-visualization)
+
 
 ## Status Definitions
 
