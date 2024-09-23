@@ -9,13 +9,13 @@ This repository contains links to all my laboratory work assignments. It serves 
 ## 🌍 Coordinate System Transformations
 **Status**: *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/coordinate-system-transformations)
-
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/coordinate-system-transformations) 
 ---
 
 ## 🎯 Radar Measurement Visualization
 **Status**: *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/radar-target-display)
-
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/radar-target-display) 
 ---
 
 ## 📡 GPS Measurement Visualization
