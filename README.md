@@ -19,9 +19,9 @@ This repository contains links to all my laboratory work assignments. It serves 
 ---
 
 ## 📡 GPS Measurement Visualization
-**Status**: *In Progress*  
+**Status**: *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/gps-visualization)
-
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/gps-visualization) 
 
 ## Status Definitions
 
