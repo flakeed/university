@@ -24,6 +24,18 @@ This repository contains links to all my laboratory work assignments. It serves 
 [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/gps-visualization) 
 ---
 
+## 📊 LORAN Visualization
+**Status**: *Completed*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/loran-visualization)
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/loran-visualization) 
+---
+
+## 📈 Kalman Filter Research
+**Status**: *Completed*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/flakeed/kalman-filter-research)
+[![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flakeed/kalman-filter-research) 
+---
+
 ## Status Definitions
 
 - Completed: The work is finished and ready for review.
